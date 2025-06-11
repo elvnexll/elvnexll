@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ELVNEXLL</title>
+  <link rel="icon" type="image/x-icon" href="icon.jpg" />
+    <link rel='stylesheet' type='text/css' href='index.css'>
+    
+ 
+</head>
+<body>
+  <div class="flicker-in-1">
+    <div class="crt">
+  <div class="container">
+    <h1>ELVNEXLL</h1> <BR>
+    
+  </div>
+<div class="link">
+  <a href="https://youtube.com">
+<p>[VIDEOS]</p>
+  </a>
+  <a href="https://youtube.com">
+<p>[MEMORIES]</p>
+  </a>
+    <a href="students/students.html">
+<p>[STUDENTS]</p>
+  </a>
+  </div>
+  </div>
+
+ <div class="socials">
+    <a href="https://instagram.com">
+        <img src="ig.png" width="100px" height="100px">
+    </a>
+
+     <a href="https://youtube.com">
+        <img src="yt.png" width="100px" height="100px">
+    </a>
+  </div>
+  </div>
+</body>
+</html>
+
