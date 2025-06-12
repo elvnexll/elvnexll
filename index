@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ELVNEXLL</title>
+  <link rel="icon" type="image/x-icon" href="icon.jpg" />
+    <link rel='stylesheet' type='text/css' href='index.css'>
+    
+ 
+</head>
+<body>
+  <div class="flicker-in-1">
+    <div class="crt">
+  <div class="container">
+    <h1>ELVNEXLL</h1> <br>
+
+    
+  </div>
+ <div class="container">
+
+  <H2 style="font-style: italic; font-size: 200%; text-decoration: underline ;">"We are Excellent!"</H2>
+ </div>
+  
+
+
+<div class="link">
+ 
+  <a href="memor/memories">
+<p>[MEMORIES]</p>
+  </a>
+    <a href="students/students.html">
+<p>[STUDENTS]</p>
+  </a>
+  </div>
+  </div>
+
+ <div class="socials">
+    <a href="https://www.instagram.com/spnsd.elvnexll?igsh=eHNqYzE3am5qZmg3">
+        <img src="ig.png" width="100px" alt="instagram"   height="100px">
+    </a>
+
+   <!-- <a href="https://youtube.com">
+        <img src="yt.png" width="100px" height="100px">
+    </a> --> 
+
+    <a href="https://www.tiktok.com/@elvnexll?_t=ZS-8x8HtukXc1Y&_r=1">
+
+<img src="tiktok.png" alt="tiktok" width="100px" height="100px">
+
+    </a>
+  </div>
+  </div>
+</body>
+</html>
+
