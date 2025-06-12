@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ELVNEXLL</title>
+  <link rel="icon" type="image/x-icon" href="icon.jpg" />
+  <link rel="stylesheet" type="text/css" href="../index.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      background: black;
+      color: white;
+    }
+
+    header {
+      width: 100%;
+      text-align: center;
+      padding: 20px;
+    }
+
+    header p {
+      font-style: italic;
+      font-size: 200%;
+      cursor: pointer;
+      display: inline-block;
+      text-decoration: underline;
+    }
+
+    .crt {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .crt img {
+      width: 200px;
+      height: auto;
+      box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .crt img:hover {
+      box-shadow: 0 8px 20px rgba(6, 248, 66, 0.3);
+    }
+  </style>
+</head>
+<body>
+    <div class="crt">
+  <header>
+    <a onclick="history.back()"><p>Back</p></a>
+
+    
+  </header>
+
+ <div class="link">
+  <a href="videos/videos.html">
+<p>[VIDEOS]</p>
+  </a>
+  <a href="photos/pictures.html">
+<p>[PICTURES]</p>
+  </a>
+  
+
+  </div>
+   
+  </div>
+</body>
+</html>
